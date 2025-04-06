@@ -7,7 +7,7 @@ Hi, ich bin Hüseyin – leidenschaftlicher Full-Stack-Entwickler mit 12+ Jahren
 Ich unterstütze Unternehmen dabei, moderne, wartbare und performante Anwendungen zu entwickeln – hands-on, effizient und ehrlich.
 
 🌐 [cloudfusion.it](https://www.cloudfusion-it.de)  
-📫 huseyin@cloudfusion-it.de
+📫 hkorkut@cloudfusion-it.de
 
 ---
 
